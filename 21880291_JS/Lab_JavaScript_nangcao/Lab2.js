@@ -1,5 +1,4 @@
 //Lab2_nang cao
-
 Arrow Function:
 var addNumber = (a, b) => {
     return a + b;
@@ -26,6 +25,7 @@ function random(min, max) {
     return min + Math.random() * (max - min);
 }
 module.export = random;
+
 //Controller.js
 var controller = {};
 controller.add = (x, y) => x + y;

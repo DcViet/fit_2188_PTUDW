@@ -2,9 +2,9 @@
 //Ex05-SortObjects
 // Định nghĩa các đối tượng student
 let students = [
-    { firstName: "John", lastName: "Doe", age: 21, height: 175 },
-    { firstName: "Alice", lastName: "Smith", age: 19, height: 165 },
-    { firstName: "Bob", lastName: "Johnson", age: 20, height: 180 }
+    { firstName: "An", lastName: "Viet", age: 21, height: 175 },
+    { firstName: "Binh", lastName: "Nam", age: 19, height: 165 },
+    { firstName: "Mai", lastName: "Tien", age: 20, height: 180 }
 ];
 
 // Sắp xếp mảng theo tuổi tăng dần

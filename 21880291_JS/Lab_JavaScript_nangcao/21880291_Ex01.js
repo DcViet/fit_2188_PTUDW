@@ -5,27 +5,27 @@ const students = [
         studentID: "SV001",
         fullName: "Nguyễn Văn A",
         subjects: [
-            { subjectName: "Toán", score: 0 },
-            { subjectName: "Văn", score: 0 },
-            { subjectName: "Anh", score: 0 }
+            { subjectName: "Web1", score: 0 },
+            { subjectName: "Web2", score: 0 },
+            { subjectName: "English", score: 0 }
         ]
     },
     {
         studentID: "SV002",
         fullName: "Trần Thị B",
         subjects: [
-            { subjectName: "Toán", score: 0 },
-            { subjectName: "Văn", score: 0 },
-            { subjectName: "Anh", score: 0 }
+            { subjectName: "Web1", score: 0 },
+            { subjectName: "Web2", score: 0 },
+            { subjectName: "English", score: 0 }
         ]
     },
     {
         studentID: "SV003",
         fullName: "Lê Văn C",
         subjects: [
-            { subjectName: "Toán", score: 0 },
-            { subjectName: "Văn", score: 0 },
-            { subjectName: "Anh", score: 0 }
+            { subjectName: "Web1", score: 0 },
+            { subjectName: "Web2", score: 0 },
+            { subjectName: "English", score: 0 }
         ]
     }
 ];
